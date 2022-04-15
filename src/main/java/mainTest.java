@@ -10,5 +10,7 @@ public class mainTest {
         System.out.println("master haha2");
         System.out.println("hot-fix haha2");
         System.out.println("push");
+        System.out.println("push");
+        System.out.println("push");
     }
 }
