@@ -7,5 +7,6 @@ public class mainTest {
         System.out.println("haha");
         System.out.println("haha1");
         System.out.println("haha2");
+        System.out.println("master haha2");
     }
 }
